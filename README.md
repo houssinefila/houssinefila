@@ -90,11 +90,8 @@ I'm a **second-year student** at **ESEN** (Higher School of Digital Economy), pa
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=houssinefila&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=houssinefila&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=houssinefila&theme=radical&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
