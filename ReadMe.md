@@ -1,4 +1,3 @@
-# 💫 About Me:
 🌟 About Me<br>I am Houssine Fila, a second-year student at ESEN (Higher School of Digital Economy). Data and problem-solving have always fascinated me, which drives my ambition to become a skilled data analyst who can contribute effectively to organizations and society through data-driven insights.<br><br>💼 Experience & Skills<br>• **Data Analytics:** Proficient in Power BI with beginner skills in SQL and Oracle SQL, focused on data analysis, reporting, and visualization.<br>• **Python & Computer Vision:** Experience developing computer vision projects using Python, including object detection, OCR, and AI-based visual solutions.<br>• **Machine Learning:** Foundational knowledge in machine learning concepts and practical implementation for intelligent data solutions.<br>• **Web Design:** Skilled in HTML and CSS, creating functional and user-friendly web interfaces.<br>• **Technical Supervisor – Club Elite:** Demonstrated leadership, operational management, and problem-solving abilities.<br>• **Internship Experience (ULC):** Gained practical technical exposure, strengthening real-world problem solving, teamwork, and applied technology skills.<br>• **Prompting Expertise:** Experienced in crafting effective prompts for creative, analytical, and technical AI solutions.<br><br>🗣️ Leadership & Communication<br>Strong communicator and public speaker with the ability to foster collaboration and engagement. Experienced in planning, organizing, and executing projects strategically and efficiently.<br><br>🚀 Goals & Aspirations<br>My ambition is to build my own enterprise, lead diverse teams, and develop innovative solutions that bridge challenges between people, technology, and the environment. Passionate about leadership and data, I am committed to continuous growth, positive impact, and excellence in everything I undertake.<br>
 
 
@@ -12,7 +11,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=houssinefila&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=houssinefila&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=houssinefila&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=houssinefila&icon=0&color=0)](https://visitcount.itsvg.in)
